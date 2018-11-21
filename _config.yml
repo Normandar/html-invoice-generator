@@ -1,0 +1,8 @@
+title: Html Invoice Generator
+description: JavaScript tool that will transform your HTML invoice template to fully functional invoice editor
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
